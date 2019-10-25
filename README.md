@@ -1,2 +1,2 @@
 # VigenereCipher
-Encrypt string by using the Vigenere cipher
+Encrypt strings by using the Vigenere cipher app
